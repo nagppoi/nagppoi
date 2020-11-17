@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome!　Go home because there is nothing here! 👋
+
+(/・ω・)/  ﾅﾝﾓﾅｰｲ
 
 <!--
 **nagppoi/nagppoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
